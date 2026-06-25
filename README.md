@@ -26,5 +26,4 @@ If no `.eml` path is supplied, the newest `.eml` file from `~/Downloads` is used
 ## Notes
 
 - DNS lookup is performed only for public IP addresses.
-- Real `.eml`, `.msg`, and `.mbox` files are ignored by Git by default.
-- Authentication results are read from email headers; DKIM is not cryptographically verified again.
+- Authentication results are read from email headers; DKIM is not cryptographically verified.
