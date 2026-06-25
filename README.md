@@ -46,7 +46,7 @@ No third-party dependencies are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/mailtools.git
+git clone https://github.com/jakub-ops518/mailtools.git
 cd mailtools
 ```
 
