@@ -72,7 +72,7 @@ Parse a specific file:
 python3 tools/parse_eml.py message.eml
 ```
 
-<<<<<<< HEAD
+
 - DNS lookup is performed only for public IP addresses.
 - Authentication results are read from email headers; DKIM is not cryptographically verified.
 =======
