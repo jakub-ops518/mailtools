@@ -198,6 +198,3 @@ Planned improvements:
 ---
 
 ## License
-
-Released under the MIT License.
->>>>>>> c5d8025 (Improve README)
